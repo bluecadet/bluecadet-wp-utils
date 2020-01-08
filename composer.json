@@ -1,7 +1,7 @@
 {
-    "name": "bluecadet/timber-fractal-paths",
-    "description": "A custom twig loader for Timber and Fractal",
-    "keywords": ["wordpress", "plugin", "timber", "twig", "fractal"],
+    "name": "bluecadet/bluecadet-wp-utils",
+    "description": "Bluecadet utilities for WordPress. Timber Helpers, CPT and CT registration, and more.",
+    "keywords": [],
     "type": "wordpress-plugin",
     "authors": [{
         "name": "Shaun M Baer",
